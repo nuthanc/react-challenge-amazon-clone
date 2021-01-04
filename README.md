@@ -1,10 +1,5 @@
-Amazon Clone using ReactJS — The Ultimate Guide
-Atharva Deosthale
-Atharva Deosthale
-Follow
-Oct 8 · 21 min read
-
-
+# Amazon Clone using ReactJS — The Ultimate Guide
+* Guide link: https://medium.com/cleverprogrammer/amazon-clone-using-react-the-ultimate-guide-fba2b36f3458
 
 Image for post
 The Amazon Clone was a part of the 5 day React Challenge which was held by the Clever Programmer team. During those five days, people were so pumped up and their energy made the challenge even more special. Also the Amazon Clone will also be a huge part of your portfolio because the project covers an entire E-Commerce solution! From Designing, Authentication till Payment, everything is taken care of!
